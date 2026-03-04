@@ -5,8 +5,7 @@ A **blue** and **yellow** color theme for cmus, the superb and minimalist termin
 ## Installation
 
 1. Get and copy the file `neptune.theme` to your cmus configuration directory:<br>
-   `cd ~/.config/cmus/`
-   `wget https://raw.githubusercontent.com/srdez/cmus-neptune/refs/heads/main/neptune.theme`
+   `cd ~/.config/cmus/ && wget https://raw.githubusercontent.com/srdez/cmus-neptune/refs/heads/main/neptune.theme`
 
 2. Start `cmus` and run the following command inside cmus:<br>
    ```:colorscheme neptune.theme```
