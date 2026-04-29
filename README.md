@@ -8,9 +8,9 @@ A **blue** and **yellow** color theme for cmus, the superb and minimalist termin
    `cd ~/.config/cmus/ && wget https://raw.githubusercontent.com/srdez/cmus-neptune/refs/heads/main/neptune.theme`
 
 2. Start `cmus` and run the following command inside cmus:<br>
-   ```:colorscheme neptune.theme```
+   ```:colorscheme neptune```
 
-3. If you want to apply the theme permanently, append the command to your cmus configuration file by executing:<br>
+3. To apply the theme permanently, append the command to your cmus configuration file by executing:<br>
    ```echo 'colorscheme neptune' >> ~/.config/cmus/rc```
 
 ## Preview
